@@ -3,3 +3,4 @@
 * Decidia
 * Duda
 * Miedo
+* Indiferencia
