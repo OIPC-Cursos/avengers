@@ -1,4 +1,4 @@
 # Misiones
 
 * Investigar otros cursos de programación
-* Hacerlo rápido
+* Enfocarse en lo importante
